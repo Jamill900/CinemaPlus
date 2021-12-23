@@ -1,0 +1,47 @@
+img {
+    margin-bottom: 10px;
+    border: 3px solid #05cfff;
+    padding: 7px;
+    border-radius: 10px;
+    cursor: pointer;
+}
+.section-head h4 {
+    position: relative;
+    padding:0;
+    color:#fff;
+    line-height: 1;
+    letter-spacing:0.3px;
+    font-size: 34px;
+    font-weight: 700;  
+    text-align:center;
+    text-transform:none;
+    margin-bottom:40px;
+    }
+    .section-head h4:before {
+    content: '';
+    width: 60px;
+    height: 3px;
+    background: #05cfff;
+    position: absolute;
+    left: 0px;
+    bottom: -20px;
+    right:0;  
+    margin:0 auto;
+    }
+    .section-head h4 span {
+    font-weight: 700;
+    padding-bottom: 5px;
+    color: #fff;
+    }
+    p.service_text{
+    color:#fff !important;
+    font-size:16px;
+    line-height:28px;
+    text-align:center;    
+    }
+    .section-head p, p.awesome_line{
+    color:#efefef;
+    font-size:16px;
+    line-height:28px;
+    text-align:center;  
+    }

@@ -1,0 +1,23 @@
+.page-footer {
+  font-size: 13px;
+  background: rgba(119,119,119,.15)
+}
+.container {
+  padding-bottom: 25px;
+}
+
+.links p a {
+    color: #fff;
+    text-decoration: none;
+}
+
+#plus {
+  color: #05cfff;
+}
+#plusw {
+  color: #fff;
+}
+
+h6 {
+  color: #05cfff;
+}

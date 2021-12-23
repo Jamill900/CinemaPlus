@@ -1,0 +1,7 @@
+img {
+    filter: brightness(60%);
+}
+
+img:hover {
+    filter: brightness(100%);
+}
