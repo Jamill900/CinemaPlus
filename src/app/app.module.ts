@@ -12,7 +12,6 @@ import { SliderComponent } from './slider/slider.component';
 import { HttpClientModule } from '@angular/common/http';
 import { JoinPipe } from './pipe/join.pipe';
 import { MinutePipe } from './pipe/minute.pipe';
-import { DayPipe } from './pipe/day.pipe';
 import { MovieListComponent } from './movie-list/movie-list.component';
 import { CampaignsComponent } from './campaigns/campaigns.component';
 import { AboutUsComponent } from './about-us/about-us.component';
@@ -31,7 +30,6 @@ import {NgxPaginationModule} from 'ngx-pagination';
     HomePageComponent,
     FooterComponent,
     SliderComponent,
-    DayPipe,
     MinutePipe,
     JoinPipe,
     MovieListComponent,
